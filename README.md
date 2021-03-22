@@ -7,13 +7,13 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" />
   <br><br><br>
-  <a href="https://www.facebook.com/fridayproj2/"><img src="https://user-images.githubusercontent.com/43088187/112016401-061b9100-8b70-11eb-8f80-0e82d1fd5ee8.png" width="30%" style="margin-right:2%"/></a>
-  <a href="http://temptemp.site/"> <img src="https://user-images.githubusercontent.com/43088187/112016423-09af1800-8b70-11eb-8e6e-af52d2b96143.png" width="30%" style="margin-right:2%"/></a>
+  <a href="https://www.facebook.com/fridayproj2/" target="_blank"><img src="https://user-images.githubusercontent.com/43088187/112016401-061b9100-8b70-11eb-8f80-0e82d1fd5ee8.png" width="28%" style="margin-right:5%"/></a>
+  <a href="http://temptemp.site/" target="_blank"> <img src="https://user-images.githubusercontent.com/43088187/112016423-09af1800-8b70-11eb-8e6e-af52d2b96143.png" width="28%" style="margin-right:5%"/></a>
   <a href="https://play.google.com/store/apps/details?id=com.friday.timer
-/"> <img src="https://user-images.githubusercontent.com/43088187/112016432-0c117200-8b70-11eb-879a-bd2966bf5af3.png" width="30%"/></a>
+/" target="_blank"> <img src="https://user-images.githubusercontent.com/43088187/112016432-0c117200-8b70-11eb-879a-bd2966bf5af3.png" width="28%"/></a>
   <br> <br><br>
  <a href="https://github.com/Mango-Juice"><img src="https://github-readme-stats.vercel.app/api?username=Mango-Juice&amp;count_private=true&amp;show_icons=true&amp" /></a>
   <br><br>
-  <a href="https://www.instagram.com/sw_mingyu/"><img src="https://img.shields.io/badge/Visit%20Instagram-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=white" width="25%" style="margin-right:1%"/></a>
+  <a href="https://www.instagram.com/sw_mingyu/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Instagram-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=white" width="25%" style="margin-right:1%"/></a>
 </div>
 </p>
