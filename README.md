@@ -9,6 +9,7 @@
   <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=PHP&amp;logoColor=white" /></a>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" /></a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" /></a>
+  <a href="https://www.javascript.com" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" /></a>
   <br><br><br>
   <a href="https://friday.goorm.io" target="_blank"><img src="https://user-images.githubusercontent.com/43088187/112016401-061b9100-8b70-11eb-8f80-0e82d1fd5ee8.png" width="30%" style="margin-right:2%"/></a>
   <a href="http://temptemp.site" target="_blank"> <img src="https://user-images.githubusercontent.com/43088187/112016423-09af1800-8b70-11eb-8e6e-af52d2b96143.png" width="30%" style="margin-right:2%"/></a>
