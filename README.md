@@ -14,7 +14,7 @@
   <br> <br>
  <a href="https://github.com/Mango-Juice"><img src="https://github-readme-stats.vercel.app/api?username=Mango-Juice&count_private=true&show_icons=true&theme=dracula" /></a>
   <br><br>
-  <a href="ttps://solved.ac/wjsalsrb5/" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjsalsrb5" width="25%" style="margin-right:2%"></a> 
+  <a href="https://solved.ac/wjsalsrb5/" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjsalsrb5" width="25%" style="margin-right:2%"></a> 
    <a href="https://www.instagram.com/sw_mingyu/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Instagram-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=white" width="25%" style="margin-right:1%"/></a>
   
 </div>
