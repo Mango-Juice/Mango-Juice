@@ -1,5 +1,5 @@
   <div align="center">
-    <h1>이것 저것 하는 코린이, <span style="color: red"><strong>잘익은 망고쥬스</strong></span>입니다.</h1>
+    <h1>이것 저것 하는 코린이, <span style="color: red"><strong>잘익은 망고쥬스</strong></span>입니다.<br><a href="https://github.com/Mango-Juice"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMango-Juice&count_bg=%23FEBC23&title_bg=%23558600&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"> </a></h1>
 <p>
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&amp;logo=Python&amp;logoColor=white" /></a>
   <a href="https://www.arduino.cc" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&amp;logo=Arduino&amp;logoColor=white" /> </a>
