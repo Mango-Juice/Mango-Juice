@@ -12,7 +12,7 @@
   <a href="https://www.javascript.com" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" /></a>
   <br><br><br>
   <a href="https://friday.goorm.io" target="_blank"><img src="https://user-images.githubusercontent.com/43088187/112016401-061b9100-8b70-11eb-8f80-0e82d1fd5ee8.png" width="30%" style="margin-right:2%"/></a>
-  <a href="http://temptemp.site" target="_blank"> <img src="https://user-images.githubusercontent.com/43088187/112016423-09af1800-8b70-11eb-8e6e-af52d2b96143.png" width="30%" style="margin-right:2%"/></a>
+  <a href="https://mango-juice.github.io/MUYAHO" target="_blank"> <img src="https://user-images.githubusercontent.com/43088187/116002720-fe9b4c00-a635-11eb-96ae-d788e2e5867c.png" width="30%" style="margin-right:2%"/></a>
   <a href="https://play.google.com/store/apps/details?id=com.friday.timer
 " target="_blank"> <img src="https://user-images.githubusercontent.com/43088187/112016432-0c117200-8b70-11eb-879a-bd2966bf5af3.png" width="30%"/></a>
   <br> <br>
