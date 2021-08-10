@@ -1,5 +1,5 @@
   <div align="center">
-  <a href="https://github.com/Mango-Juice" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=205&section=header&text=잘익은 망고쥬스&fontSize=70&animation=fadeIn&fontAlignY=29&desc=이것%20저것%20하는%20코린이&descAlignY=56&animation=fadeIn&descSize=24" width="100%"/></a>
+  <a href="https://github.com/Mango-Juice" target="_blank"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=205&section=header&text=잘익은 망고쥬스&fontSize=70&animation=fadeIn&fontAlignY=30&desc=이것%20저것%20하는%20코린이&descAlignY=57&animation=fadeIn&descSize=24" width="100%"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&amp;logo=Python&amp;logoColor=white" /></a>
   <a href="https://www.arduino.cc" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&amp;logo=Arduino&amp;logoColor=white" /> </a>
   <a href="https://www.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&amp;logo=Android&amp;logoColor=white" /></a>
