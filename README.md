@@ -1,10 +1,5 @@
 <div align="center">
   
-  <!-- HEADER START -->
-  <a href="https://github.com/Mango-Juice" target="_blank"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=130&section=header&text=잘익은 망고쥬스&fontSize=65&animation=fadeIn&fontAlignY=40&desc=이것%20저것%20하는%20코린이&descAlignY=80&animation=fadeIn&descSize=20" width="100%"/></a>
-  <!-- HEADER FINISH -->
-  
-  
   <!-- INFO START -->
   <h2> 🤔 About Me </h2>
   <ul align="left">
@@ -14,7 +9,7 @@
   </ul>
   <!-- INFO FINISH -->
   
-  <br><br>
+  <br>
   
   <!-- LANGUAGES START -->
   <h2> 👨‍💻 Languages </h2>
