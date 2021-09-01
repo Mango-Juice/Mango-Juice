@@ -26,7 +26,7 @@
   
   <!-- CONTRIBUTION STATS START -->
   <h2> 📈 Streak Stats </h2>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Mango-Juice"/>
+  <a href="http://github-readme-streak-stats.herokuapp.com"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mango-Juice"/></a>
   <!-- CONTRIBUTION STATS FINISH -->
   
   <br><br>
