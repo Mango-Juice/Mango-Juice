@@ -25,7 +25,7 @@
   <br><br>
   
   <!-- CONTRIBUTION STATS START -->
-  <h2> 📈 Github Stats </h2>
+  <h2> 📈 Streak Stats </h2>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Mango-Juice"/>
   <!-- CONTRIBUTION STATS FINISH -->
   
