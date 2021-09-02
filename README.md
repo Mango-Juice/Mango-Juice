@@ -34,14 +34,14 @@
   <!-- STATS & CONTACTS START -->
   <h2> 🙄 More About Me? </h2>
   <a href="https://solved.ac/wjsalsrb5" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjsalsrb5" width="35%" style="margin-right:2%"></a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/sw_mingyu" target="_blank"><img src="https://img.shields.io/badge/Visit%20Instagram-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=white" width="35%" style="margin-left:2%"/></a>
   <!-- STATS & CONTACTS FINISH -->
   
   <br><br>
   
   <!-- FOOTER START -->
-  <a href="https://www.buymeacoffee.com/mangojuice" target="_blank"><img src="https://github.com/Mango-Juice/Mango-Juice/blob/main/bmc.png?raw=true" width="25%" style="margin-right:2%"></a><br>
+  <a href="https://www.buymeacoffee.com/mangojuice" target="_blank"><img src="https://github.com/Mango-Juice/Mango-Juice/blob/main/bmc.png?raw=true" width="250px" style="margin-right:2%"></a><br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMango-Juice&count_bg=%23FF9700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <!-- FOOTER FINISH -->
 </div>
