@@ -33,7 +33,7 @@
   
   <!-- STATS & CONTACTS START -->
   <h2> 🙄 More About Me? </h2>
-  <a href="https://mango-juice.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-000000?style=flat-square&amp;logo=Notion&amp;logoColor=white" width="35%" style="margin-left:2%"/></a>
+  <a href="https://mango-juice.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-000000?style=flat-square" width="35%" style="margin-left:2%"/></a>
   <!-- STATS & CONTACTS FINISH -->
   
   <br><br>
