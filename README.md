@@ -25,8 +25,8 @@
   <br><br>
   
   <!-- CONTRIBUTION STATS START -->
-  <h2> 📈 Streak Stats </h2>
-  <a href="http://github-readme-streak-stats.herokuapp.com"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mango-Juice&date_format=%5BY.%5Dn.j"/></a>
+  <h2> 📈 Github Stats </h2>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mango-juice&count_private=true&include_all_commits=true"/></a>
   <!-- CONTRIBUTION STATS FINISH -->
   
   <br><br>
