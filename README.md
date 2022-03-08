@@ -4,8 +4,8 @@
   <h2> 🤔 About Me </h2>
   <ul align="left">
     <li> 🎓 Student at <b>Ajou University</b> (Department of Software and Computer Engineering) </li>
-    <li> ✏️ Currently Learning <b>React Native</b> and <b>Deep Learning</b> </li>
-    <li> 😴 <b>VERY LAZY</b> </li>
+    <li> ✏️ Currently Learning <b>Web</b> and <b>Deep Learning</b> </li>
+    <li> 😴 <del>LAZY</del> </li>
   </ul>
   <!-- INFO FINISH -->
   
