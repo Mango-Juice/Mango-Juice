@@ -32,6 +32,14 @@
   
   <br><br>
   
+  <!-- WAKATIME START -->
+  <h2> ⏰ Wakatime </h2>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  <!-- WAKATIME FINISH -->
+  
+  <br><br>
+  
   <!-- STATS & CONTACTS START -->
   <h2> 🙄 More About Me? </h2>
   <a href="https://mango-juice.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-000000?style=flat-square" width="30%" style="margin-left:2%"/></a>
