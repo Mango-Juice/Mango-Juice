@@ -5,7 +5,7 @@
   <ul align="left">
     <li> 🎓 Student at <b>Ajou University</b> (Department of Software and Computer Engineering) </li>
     <li> ✏️ Currently Learning <b>Flutter</b> and <b>React</b> </li>
-    <li> 🤗 <b>소프트웨어 마에스트로 13기 연수생</b>으로 활동하고 있습니다.</li>
+    <li> 🤗 소프트웨어 마에스트로 13기를 수료하였습니다.</li>
     <li> 🎈 빠른 개발과 검증을 통해 주변 사람에게 강력 추천할 수 있는 서비스를 제작하는 것이 목표입니다.</li>
   </ul>
   <!-- INFO FINISH -->
