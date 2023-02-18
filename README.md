@@ -26,6 +26,9 @@
   <!-- STATS START -->
   <h2> 📈 Stats </h2>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mango-juice&count_private=true&include_all_commits=true"/></a>
+  <br>
+  <a herf="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=MangoJuice&layout=compact&langs_count=6"/></a>
+  <br>
   <a href="https://solved.ac/profile/wjsalsrb5"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=wjsalsrb5"/></a>
   <!-- STATS FINISH -->
   
