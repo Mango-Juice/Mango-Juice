@@ -38,10 +38,4 @@
   <h2> 🙄 More About Me? </h2>
   <a href="https://mango-juice.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-000000?style=flat-square" width="30%" style="margin-left:2%"/></a>
   <!-- CONTACTS FINISH -->
-  
-  <br><br>
-  
-  <!-- FOOTER START -->
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMango-Juice&count_bg=%23FF9700&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <!-- FOOTER FINISH -->
 </div>
