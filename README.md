@@ -31,11 +31,4 @@
   <br>
   <a href="https://solved.ac/profile/wjsalsrb5"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=wjsalsrb5"/></a>
   <!-- STATS FINISH -->
-  
-  <br><br>
-  
-  <!-- CONTACTS START -->
-  <h2> 🙄 More About Me? </h2>
-  <a href="https://mango-juice.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Visit%20Website-000000?style=flat-square" width="30%" style="margin-left:2%"/></a>
-  <!-- CONTACTS FINISH -->
 </div>
