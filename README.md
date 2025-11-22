@@ -4,7 +4,7 @@
   <h2> 🤔 About Me </h2>
   <ul align="left">
     <li> 🎓 Student at <b>Ajou University</b> (Department of Software and Computer Engineering) </li>
-    <li> ✏️ Currently Learning <b>Flutter</b> and <b>React</b> </li>
+    <li> ✏️ Currently Learning <b>Spring Boot</b> and <b>React</b> </li>
     <li> 🤗 소프트웨어 마에스트로 13기를 수료하였습니다.</li>
     <li> 🎈 빠른 개발과 검증을 통해 주변 사람에게 강력 추천할 수 있는 서비스를 제작하는 것이 목표입니다.</li>
   </ul>
@@ -14,11 +14,11 @@
   
   <!-- LANGUAGES START -->
   <h2> 👨‍💻 Tech Stacks </h2>
-  <a href="https://www.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-original.svg" width="7%"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="7%"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="7%"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="7%"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" width="7%"/></a>
+  <a href="https://www.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-original.svg" width="7%"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="7%"/></a>
   <!-- LANGUAGES FINISH -->
 
   <br><br>
