@@ -6,3 +6,8 @@
 Ajou University · Software Maestro 13th
 
 [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EA%B7%9C-%EC%A0%84-b40839265/) · [Blog](https://mango-juice.com/)
+<hr/>
+<p>
+  <img align="top" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Mango-Juice&include_all_commits=true&hide_rank=true&show_icons=true&hide=stars" />
+  <img align="top" alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=Mango-Juice&layout=compact&langs_count=8&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+</p>
