@@ -1,34 +1,8 @@
-<div align="center">
-  
-  <!-- INFO START -->
-  <h2> 🤔 About Me </h2>
-  <ul align="left">
-    <li> 🎓 Student at <b>Ajou University</b> (Department of Software and Computer Engineering) </li>
-    <li> ✏️ Currently Learning <b>Spring Boot</b> and <b>React</b> </li>
-    <li> 🤗 소프트웨어 마에스트로 13기를 수료하였습니다.</li>
-    <li> 🎈 빠른 개발과 검증을 통해 주변 사람에게 강력 추천할 수 있는 서비스를 제작하는 것이 목표입니다.</li>
-  </ul>
-  <!-- INFO FINISH -->
-  
-  <br>
-  
-  <!-- LANGUAGES START -->
-  <h2> 👨‍💻 Tech Stacks </h2>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="7%"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="7%"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" width="7%"/></a>
-  <a href="https://www.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-original.svg" width="7%"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="7%"/></a>
-  <!-- LANGUAGES FINISH -->
+웹과 앱, 데이터 파이프라인을 오가며 서비스를 만듭니다.
 
-  <br><br>
-  
-  <!-- STATS START -->
-  <h2> 📈 Stats </h2>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=mango-juice&count_private=true&include_all_commits=true"/></a>
-  <br>
-  <a herf="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=MangoJuice&layout=compact&langs_count=6"/></a>
-  <br>
-  <a href="https://solved.ac/profile/wjsalsrb5"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=wjsalsrb5"/></a>
-  <!-- STATS FINISH -->
-</div>
+빠르게 구현하고 직접 사용해 보면서,
+주변 사람에게 자신 있게 추천할 수 있는 결과를 만들고 싶습니다.
+
+Ajou University · Software Maestro 13th
+
+[LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EA%B7%9C-%EC%A0%84-b40839265/) · [Blog](https://mango-juice.com/)
